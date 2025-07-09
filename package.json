@@ -101,8 +101,8 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@in5net/eslint-config": "^0.15.4",
-    "@in5net/prettier-config": "^2.0.0",
+    "@in5net/eslint-config": "^0.16.0",
+    "@in5net/prettier-config": "^1.0.0",
     "bumpp": "^9.8.1",
     "tsup": "^8.3.5",
     "typescript": "^5.7.2",
